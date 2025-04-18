@@ -1,4 +1,4 @@
-# ACM Hackathon – 2nd Place Winner
+# 🏆 ACM Hackathon – 2nd Place Winner 🏆
 
 
 Achieved **2nd place** in **ACM at CSUSM**'s first hackathon as a **solo developer**. 
